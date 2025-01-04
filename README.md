@@ -2,7 +2,7 @@
 <h3 align="center">Developer</h3>
 
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">  
+<img align="right" width="370" height="290" src="[https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471yppr1ssd7yomtjrkf94kurhwyilnd3yl9njm2b4&ep=v1_gifs_search&rid=giphy.gif&ct=g)">  
 - 🔭 I’m currently working on **Full Stack**
 
 - 🌱 I’m currently learning **Full Stack**
