@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack**
 
-- 👨‍💻 All of my projects are available at [https://arvind22cse.github.io/Fullstack_training/](https://arvind22cse.github.io/Fullstack_training/)
+- 👨‍💻 All of my projects are available at [https://github.com/Arvind22cse/Portfolio.git/](https://github.com/Arvind22cse/Portfolio.git)
 
 - 💬 Ask me about **Tech**
 
